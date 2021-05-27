@@ -6,7 +6,7 @@
     "flowSnapshot" : {
       "externalControllerServices" : { },
       "flowContents" : {
-        "comments" : "",
+        "comments" : "comment",
         "componentType" : "PROCESS_GROUP",
         "connections" : [ ],
         "controllerServices" : [ ],
@@ -19,8 +19,8 @@
         "name" : "Process Group Git",
         "outputPorts" : [ ],
         "position" : {
-          "x" : 515.0,
-          "y" : 280.0
+          "x" : 256.0,
+          "y" : 64.0
         },
         "processGroups" : [ ],
         "processors" : [ ],
